@@ -1,26 +1,34 @@
 
 body{
     background-color: aquamarine;
-    background-image: url("images!/losty.jpeg");
-    display: absolute;
-    font-size: 150%
-
+    background-image: url("../images!/losty.jpg");
+    /* display: absolute; */
+    font-size: 150%;
+    background-size: cover;
     
+}
+a:visited {
+    color: palevioletred;
+  }
+
+img{
+    width: 40%
+    
+
 }
 
 p {
 
 
 font-family: 'Times New Roman', arial;
-color: peru 
+color:red ;
 
 
 }
 
 div1 {
-color: red
+color:orangered
 }
 p {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
-    color: rgb(223, 178, 219) 
-}
+    
