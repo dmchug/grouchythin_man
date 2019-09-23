@@ -1,0 +1,118 @@
+body{
+    margin: 0;
+}
+
+.box {
+    float: left;
+    width: 19%;
+    height: 50%;
+    border-radius: 60%;
+    background-color: pink;
+    margin: 2% 3%;
+    border-radius: 30%;
+    background-size: 175%;contai; 
+    background-repeat: no-repeat;
+    transition: 1s;
+}
+
+.wrapper {
+    /* position: relative; */
+    margin:25%;
+    width: 24%;
+    height: 396px;
+    padding: 199px;
+    margin-top:40px;
+    background-color: blueviolet;
+    border-radius: 40%;   
+}
+
+.row{
+    height:32.33%;
+   
+    
+}
+
+.row::after {
+    content: "";
+    display: block;
+    clear: both;
+}
+
+
+
+/* .lower {
+    width: 100px;
+    height: 500px;
+    background: red;
+    border-radius: 20%
+  } */
+
+.leo1{
+    background-image: url("http://40.media.tumblr.com/b0009523687cb214d93ffb44791b4e58/tumblr_n00ss0P3UA1t07pe9o1_1280.png");
+}
+.heath1{
+    background-image:url("https://www.biography.com/.image/t_share/MTQ1Mjc0MDE2NDIzMzU1ODAw/heath-ledger---early-life.jpg");
+}
+.river1{
+background-image: url("http://www.cheatsheet.com/wp-content/uploads/2016/03/River-Phoenix-LARGE.jpg");
+
+}
+.dermot1{
+    background-image: url("https://www.themoviescene.co.uk/reviews/_img/3975-2.jpg");
+}
+.corey1{
+    background-image: url("https://66.media.tumblr.com/f1ea3d71eb4b411ce875e85ea89271fc/tumblr_p2q48xM9aS1vakv0po2_500.png");
+}
+.jack1{
+    background-image: url("http://www.cheatsheet.com/wp-content/uploads/2016/07/Jack-Nicholson-in-The-Shining.jpg");
+}
+.moby1{
+    background-image: url("https://lastfm-img2.akamaized.net/i/u/770x0/f3005cb54ee85a44754dc60f4d8aae15.jpg");
+}
+.enya1{
+    background-image: url("http://www.cornel1801.com/Enya/Book_Of_Days/video/pictures/6.jpg");
+}
+.cameron1{
+background-image: url("https://i.pinimg.com/originals/9a/1d/06/9a1d06d04c98cfc7a711931935c5e69c.jpg");
+}
+.chrome1{
+    background-image: url("https://image.rakuten.co.jp/pch1/cabinet/etc3/ch-cap-fuck-1.jpg");
+
+}
+.bella1{
+    background-image: url("https://1gr.cz/fotky/bulvar/16/081/cl6/SUB6526c5_23movie_couples_02_ROBERTPATTINSONAK.jpg");
+}
+.wolf1{
+    background-image: url("https://static.highsnobiety.com/wp-content/uploads/2016/08/24154135/wolfgang-tillmans-23-20.jpg");
+}
+.thomas1{
+    background-image: url("https://i.ytimg.com/vi/QTUbLWISttY/hqdefault.jpg");
+}
+.cher1{
+    background-image: url("https://www.chromeheartsnecklaceonline.com/images/ins/chromeheartsbelowthewaistcher14523073801.jpg");
+}
+.rob1{
+    background-image: url("https://i.redd.it/of5ppa59kok11.jpg");
+}
+.dolly1{
+    background-image: url("https://www.out.com/sites/out.com/files/2018/11/20/dollyparton-misspiggy-750x422.jpg");
+}
+.drew1{
+    background-image: url("https://www.syfy.com/sites/syfy/files/wire/legacy/scream_opening_scene.png");
+}
+.elliot1{
+    background-image: url("https://cdn.images.express.co.uk/img/dynamic/36/590x/secondary/ET-with-Henry-Thomas-as-Elliot-1173176.jpg");
+}
+.jimmy1{
+    background-image: url("https://vignette.wikia.nocookie.net/nickelodeon/images/a/a1/Nick_Dean.png/revision/latest?cb=20160818060230");
+}
+.ian1{
+    background-image: url("https://img.buzzfeed.com/buzzfeed-static/static/2019-06/10/16/asset/buzzfeed-prod-web-01/sub-buzz-21466-1560198021-1.jpg?crop=750:553;0,98&downsize=700:*&output-format=auto&output-quality=auto");
+}
+.box:hover {
+    transform: scale(3);
+
+
+    }
+
+    
